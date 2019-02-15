@@ -1,3 +1,17 @@
+#
+# THIS LIST IS MANUALLY CURATED
+#
+# This is intended to be whitelist common domains that get blocked on
+# common public dns blocklists.
+#
+# I welcome additions to this list. Open an issue, submit a PR to the github repo
+# or reach out via twitter @zebpalmer.
+#
+# Want more details? https://zebpalmer.github.io/dns_blocklists/
+#
+# This list can be found https://zebpalmer.github.io/dns_blocklists/whitelist.txt
+#
+#
 # Microsoft
 settings-win.data.microsoft.com
 g.live.com
