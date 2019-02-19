@@ -69,3 +69,5 @@ login.msa.akadns6.net
 settings.data.microsoft.com
 login.microsoftonline.com
 browser.pipe.aria.microsoft.com
+mobile.pipe.aria.microsoft.com
+v10.events.data.microsoft.com
