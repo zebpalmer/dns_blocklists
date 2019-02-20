@@ -71,3 +71,4 @@ login.microsoftonline.com
 browser.pipe.aria.microsoft.com
 mobile.pipe.aria.microsoft.com
 v10.events.data.microsoft.com
+cl.exct.net # (salesforce) required for some sites' acct recovery emails
