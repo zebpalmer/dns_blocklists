@@ -12,7 +12,6 @@
 # This list can be found https://zebpalmer.github.io/dns_blocklists/whitelist.txt
 #
 #
-# Microsoft
 settings-win.data.microsoft.com
 g.live.com
 login.live.com
@@ -72,3 +71,4 @@ browser.pipe.aria.microsoft.com
 mobile.pipe.aria.microsoft.com
 v10.events.data.microsoft.com
 cl.exct.net # (salesforce) required for some sites' acct recovery emails
+d9hhrg4mnvzow.cloudfront.net
