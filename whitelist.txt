@@ -74,3 +74,4 @@ cl.exct.net # (salesforce) required for some sites' acct recovery emails
 d9hhrg4mnvzow.cloudfront.net
 v20.events.data.microsoft.com
 vortex.data.microsoft.com
+sstats.adobe.com # adobe stock
