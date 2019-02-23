@@ -72,3 +72,5 @@ mobile.pipe.aria.microsoft.com
 v10.events.data.microsoft.com
 cl.exct.net # (salesforce) required for some sites' acct recovery emails
 d9hhrg4mnvzow.cloudfront.net
+v20.events.data.microsoft.com
+vortex.data.microsoft.com
