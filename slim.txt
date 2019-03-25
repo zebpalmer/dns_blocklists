@@ -10,7 +10,8 @@
 # Want more details? https://zebpalmer.github.io/dns_blocklists/
 # This list can be found https://zebpalmer.github.io/dns_blocklists/slim.txt
 #
-# STATS: Total 951, Diff 21, TS 2019-03-25 22:50:53.236048
+# STATS: Total 999, Diff 1, TS 2019-03-25 23:00:19.831194
+1181183.fls.doubleclick.net
 159126.engine.mobileapptracking.com
 1681.engine.mobileapptracking.com
 168logger.com
@@ -18,6 +19,7 @@
 1996823.fls.doubleclick.net
 2975c.v.fwmrm.net
 29ccd.v.fwmrm.net
+4436230.fls.doubleclick.net
 5-9-2-android.appload.ingest.crittercism.com
 5af10.v.fwmrm.net
 5d40b.v.fwmrm.net
@@ -82,8 +84,10 @@ adserver-us.adtech.advertising.com
 adserver.adtechus.com
 adserver.intentiq.com
 adserver.pandora.com
+adserverwc.adtechus.com
 adservice.google.ca
 adservice.google.com
+adspsp.com
 aetv.hb.omtrdc.net
 aexp.demdex.net
 affiliates.bhphotovideo.com
@@ -92,6 +96,8 @@ ak.sail-horizon.com
 ak1s.abmr.net
 aka-cdn.adtechus.com
 alb.reddit.com
+alogs.umeng.com
+alogs.umengcloud.com
 altfarm.mediaplex.com
 amp-error-reporting.appspot.com
 amp.casalemedia.com
@@ -113,6 +119,7 @@ android.bugly.qq.com
 ap.lijit.com
 apex.go.sonobi.com
 api-iam.intercom.io
+api.airpush.com
 api.amplitude.com
 api.apptentive.com
 api.autopilothq.com
@@ -133,6 +140,7 @@ api.taplytics.com
 api.taps.io
 api.usebutton.com
 api.viglink.com
+api.vungle.com
 api.w.inmobi.com
 apiv2.moengage.com
 app-analytics.snapchat.com
@@ -168,6 +176,7 @@ b.scorecardresearch.com
 b.stats.paypal.com
 bam.nr-data.net
 bat.bing.com
+bats.video.yahoo.com
 bbc.gscontxt.net
 bcp.crwdcntrl.net
 bdg-analytics.appspot.com
@@ -201,6 +210,7 @@ c.jsrdn.com
 c.live.com
 c.microsoft.com
 c.msn.com
+c.parkingcrew.net
 c.paypal.com
 c1.adform.net
 c1.rfihub.net
@@ -244,6 +254,7 @@ cdn.petametrics.com
 cdn.revcontent.com
 cdn.segment.com
 cdn.siftscience.com
+cdn.socialannex.com
 cdn.switchadhub.com
 cdn.taboola.com
 cdn.trackjs.com
@@ -261,12 +272,15 @@ cdns.gigya.com
 cdnssl.clicktale.net
 cdp.cloud.unity3d.com
 certify.alexametrics.com
+cetrk.com
 chimpstatic.com
 choices.trustarc.com
 choices.truste.com
 clarium.global.ssl.fastly.net
 clc.stackoverflow.com
+click.linksynergy.com
 clickserve.dartsearch.net
+client-analytics.braintreegateway.com
 client.perimeterx.net
 client_monitor.isnssdk.com
 clientcdn.pushengage.com
@@ -357,6 +371,7 @@ dsp.adfarm1.adition.com
 dt.adsafeprotected.com
 dt.scanscout.com
 dts.innovid.com
+dx.steelhousemedia.com
 e.crashlytics.com
 e.dlx.addthis.com
 e.reddit.com
@@ -374,6 +389,8 @@ engine.phn.doublepimp.com
 entitlements.jwplayer.com
 epidm.edgesuite.net
 epnt.ebay.com
+errors.client.optimizely.com
+espn.hb.omtrdc.net
 espndotcom.tt.omtrdc.net
 etahub.com
 ethn.io
@@ -412,11 +429,13 @@ gannett.demdex.net
 gate.hockeyapp.net
 gcdn.2mdn.net
 geo.moatads.com
+geo.query.yahoo.com
 geo.yahoo.com
 geo2.adobe.com
 geotargetly-1a441.appspot.com
 gfe.nvidia.com
 gj.mmstat.com
+glb-ads.atwola.adtechus.com
 glitter.services.disqus.com
 global.ib-ibi.com
 gm.mmstat.com
@@ -478,7 +497,10 @@ impression.appsflyer.com
 imprlatbmp.taboola.com
 in-automate.sendinblue.com
 in.cuebiq.com
+incoming.telemetry.mozilla.org
 infinityid.condenastdigital.com
+info.static.startappservice.com
+infoevent.startappservice.com
 ing-district.clicktale.net
 init.supersonicads.com
 ink1001.com
@@ -515,12 +537,14 @@ krk.kargo.com
 ksl-d.openx.net
 kvinit-prod.api.kochava.com
 l-v1.presage.io
+l.betrad.com
 l.sharethis.com
 lax1-ib.adnxs.com
 lh.secure.yahoo.com
 links.services.disqus.com
 live.chartboost.com
 live.sekindo.com
+loadeu.exelator.com
 loadm.exelator.com
 log.adap.tv
 log.go.com
@@ -531,7 +555,9 @@ log.quora.com
 login.dotomi.com
 logs-01.loggly.com
 logx.optimizely.com
+lovetk-d.openx.net
 lptag.liveperson.net
+lt.andomedia.com
 m.addthis.com
 m.addthisedge.com
 m.yap.yahoo.com
@@ -553,6 +579,7 @@ med.heyzap.com
 media.trafficjunky.net
 mediaeastv3.inq.com
 mediavine-d.openx.net
+metadata.startappservice.com
 metrica.yandex.com
 metrics.aetn.com
 metrics.brightcove.com
@@ -583,6 +610,7 @@ ocsp.apple.com
 odb.outbrain.com
 onceux.unicornmedia.com
 onesignal.com
+open.delivery.net
 ophan.theguardian.com
 os4m-d.openx.net
 otf.msn.com
@@ -604,6 +632,7 @@ pebed.dm-event.net
 perf-events.cloud.unity3d.com
 perf.mmstat.com
 performance.typekit.net
+pespn.chartbeat.net
 pf.newegg.com
 phar.gu-web.net
 pi.pardot.com
@@ -628,6 +657,7 @@ pixel.monitor1.returnpath.net
 pixel.mtrcs.samba.tv
 pixel.quantserve.com
 pixel.rubiconproject.com
+pixel.sitescout.com
 pixel.tapad.com
 pixel.watch
 pixel.wp.com
@@ -641,6 +671,7 @@ pm.w55c.net
 polldaddy.com
 pp.userapi.com
 pr-bh.ybp.yahoo.com
+pr.ybp.yahoo.com
 prebid-a.rubiconproject.com
 prebid.adnxs.com
 prebid.districtm.ca
@@ -674,6 +705,7 @@ referrer.disqus.com
 register.appsflyer.com
 report-ads-to.pubnation.com
 reports.crashlytics.com
+req.startappservice.com
 res.rbl.ms
 reveal.clearbit.com
 route.carambo.la
@@ -705,6 +737,7 @@ s.po.st
 s.pubmine.com
 s.skimresources.com
 s.thebrighttag.com
+s.update.rubiconproject.com
 s.youtube.com
 s0.2mdn.net
 s07.flagcounter.com
@@ -714,6 +747,7 @@ s7.addthis.com
 sa.bbc.co.uk
 sam.msn.com
 samsungelectronicsamericainc.demdex.net
+sanalytics.ncaa.com
 sb.monetate.net
 sb.scorecardresearch.com
 sb.voicefive.com
@@ -792,6 +826,7 @@ static.eplayer.performgroup.com
 static.exoclick.com
 static.hotjar.com
 static.inq.com
+static.plista.com
 static.yieldmo.com
 staticw2.yotpo.com
 stats.appsflyer.com
@@ -805,15 +840,18 @@ svastx.moatads.com
 sync-tm.everesttech.net
 sync.adap.tv
 sync.adaptv.advertising.com
+sync.adotmob.com
 sync.go.sonobi.com
 sync.graph.bluecava.com
 sync.ipredictive.com
 sync.mathtag.com
 sync.mookie1.cn
 sync.search.spotxchange.com
+sync.smartadserver.com
 sync.tidaltv.com
 syndication.exoclick.com
 syndication.twitter.com
+system.picreel.com
 t.appsflyer.com
 t.mookie1.com
 t.myvisualiq.net
@@ -838,11 +876,13 @@ taxslayerllc.demdex.net
 tcheck.outbrainimg.com
 tcr.tynt.com
 telecommand.telemetry.microsoft.com
+telemetry.allrecipes.com
 telemetry.soundcloud.com
 tg.socdm.com
 theblaze2-d.openx.net
 tlx.3lift.com
 token.rubiconproject.com
+toyota.demdex.net
 tpc.googlesyndication.com
 tps.doubleverify.com
 tps30.doubleverify.com
@@ -854,9 +894,11 @@ track.securedvisit.com
 track.tenjin.io
 trackcmp.net
 tracker.samplicio.us
+tracking.searchmarketing.com
 trc.pushnami.com
 trc.taboola.com
 trends.revcontent.com
+triggeredmail.appspot.com
 triggers.wfxtriggers.com
 trk.pinterest.com
 tru.am
@@ -869,6 +911,7 @@ udm.scorecardresearch.com
 ue.flipboard.com
 ulogs.umeng.com
 ulogs.umengcloud.com
+unid.go.com
 up.cm.ksmobile.com
 urs.cnet.com
 us-ads.openx.net
@@ -889,6 +932,8 @@ va.tawk.to
 vast.adsafeprotected.com
 vast.w.inmobi.com
 vastpixel.adsafeprotected.com
+verizon.inq.com
+verizonwireless.112.2o7.net
 vid.springserve.com
 video.unrulymedia.com
 videotracker.washingtonpost.com
@@ -922,11 +967,13 @@ ws.pusherapp.com
 ws.sharethis.com
 ws.tapjoyads.com
 wv.inner-active.mobi
+www.a.shifen.com
 www.addthis.com
 www.addtoany.com
 www.adtilt.com
 www.anrdoezrs.net
 www.bloglines.com
+www.breitbart.com
 www.cm.ksmobile.com
 www.coedcherry.com
 www.dwin2.com
@@ -941,6 +988,7 @@ www.linkwithin.com
 www.mailchimp.com
 www.qualtrics.com
 www.res-x.com
+www.sc.pages02.net
 www.sdad.guru
 www.snapengage.com
 www.summerhamster.com
