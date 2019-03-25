@@ -10,7 +10,7 @@
 # Want more details? https://zebpalmer.github.io/dns_blocklists/
 # This list can be found https://zebpalmer.github.io/dns_blocklists/slim.txt
 #
-# STATS: Total 930, Diff 153, TS 2019-02-23 03:44:42.270546
+# STATS: Total 951, Diff 21, TS 2019-03-25 22:50:53.236048
 159126.engine.mobileapptracking.com
 1681.engine.mobileapptracking.com
 168logger.com
@@ -77,6 +77,7 @@ ads.yahoo.com
 ads.yieldmo.com
 ads2.contentabc.com
 ads30.adcolony.com
+adsdk.vrvm.com
 adserver-us.adtech.advertising.com
 adserver.adtechus.com
 adserver.intentiq.com
@@ -106,6 +107,7 @@ analytics.mobile.walmart.com
 analytics.plex.tv
 analytics.query.yahoo.com
 analytics.shareaholic.com
+analytics.supplyframe.com
 analytics.twitter.com
 android.bugly.qq.com
 ap.lijit.com
@@ -254,6 +256,7 @@ cdn2.hubspot.net
 cdn2.inner-active.mobi
 cdn2.lockerdome.com
 cdn2.teads.tv
+cdn3.doubleverify.com
 cdns.gigya.com
 cdnssl.clicktale.net
 cdp.cloud.unity3d.com
@@ -353,11 +356,13 @@ dsms0mj1bbhn4.cloudfront.net
 dsp.adfarm1.adition.com
 dt.adsafeprotected.com
 dt.scanscout.com
+dts.innovid.com
 e.crashlytics.com
 e.dlx.addthis.com
 e.reddit.com
 eb.trbas.com
 eb2.3lift.com
+ebayinc.demdex.net
 ecommerce.iap.unity3d.com
 edge.quantserve.com
 edge.simplereach.com
@@ -397,6 +402,7 @@ fls-na.amazon.com
 fls.doubleclick.net
 fp.msedge.net
 frontpage-stats.rbl.ms
+fw.adsafeprotected.com
 g.3gl.net
 g2.gumgum.com
 ga-beacon.appspot.com
@@ -444,6 +450,7 @@ horizon.sailthru.com
 hrum.hotelsapi.io
 ht.redtube.com
 ht.youporn.com
+htlbid.com
 hubtraffic.com
 hw-cdn.trafficjunky.net
 i.clean.gg
@@ -457,17 +464,16 @@ ib.3lift.com
 ib.adnxs.com
 ib.tiktokv.com
 ichnaea.netflix.com
-id.google.com
 id5-sync.com
 idsync.rlcdn.com
 image2.pubmatic.com
+image6.pubmatic.com
 images.dmca.com
 images.performgroup.com
 images.taboola.com
 imagesak.secureserver.net
 imasdk.googleapis.com
 img.en25.com
-img1.wsimg.com
 impression.appsflyer.com
 imprlatbmp.taboola.com
 in-automate.sendinblue.com
@@ -485,6 +491,7 @@ ip-info.ff.avast.com
 ipm-provider.ff.avast.com
 ir-na.amazon-adsystem.com
 is-tracking-pixel-api-prod.appspot.com
+ivastoor.com
 jadserve.postrelease.com
 js-agent.newrelic.com
 js-sec.indexww.com
@@ -559,6 +566,7 @@ moupdate1.kingsoft-office-service.com
 mpp.vindicosuite.com
 mpsnare.iesnare.com
 mpx.mopub.com
+mtrx.go.sonobi.com
 munchkin.marketo.net
 my.hellobar.com
 my.mobfox.com
@@ -567,6 +575,7 @@ na-ab05.marketo.com
 native.sharethrough.com
 nativesdks.mparticle.com
 nexus.ensighten.com
+nypost-d.openx.net
 o.ss2.us
 oascentral.datasphere.com
 oca.telemetry.microsoft.com
@@ -601,6 +610,7 @@ pi.pardot.com
 ping-dot-acp-magento.appspot.com
 ping.chartbeat.net
 ping.taplytics.com
+pingback.issuu.com
 pingma.qq.com
 pippio.com
 pixel-a.basis.net
@@ -615,6 +625,7 @@ pixel.facebook.com
 pixel.mathtag.com
 pixel.moatads.com
 pixel.monitor1.returnpath.net
+pixel.mtrcs.samba.tv
 pixel.quantserve.com
 pixel.rubiconproject.com
 pixel.tapad.com
@@ -646,6 +657,7 @@ px.adhigh.net
 px.ads.linkedin.com
 px.moatads.com
 q.stripe.com
+quantcast.mgr.consensu.org
 r.dlx.addthis.com
 r.nexac.com
 r.teads.tv
@@ -701,6 +713,7 @@ s3.tradingview.com
 s7.addthis.com
 sa.bbc.co.uk
 sam.msn.com
+samsungelectronicsamericainc.demdex.net
 sb.monetate.net
 sb.scorecardresearch.com
 sb.voicefive.com
@@ -735,6 +748,7 @@ secure.insightexpressai.com
 secure.quantserve.com
 secure.statcounter.com
 securepubads.g.doubleclick.net
+segment-data.zqtk.net
 segment-pixel.invitemedia.com
 sejs.moatads.com
 sentry.io
@@ -811,6 +825,7 @@ tag.bounceexchange.com
 tag.crsspxl.com
 tag.navdmp.com
 tag.perfectaudience.com
+tag.researchnow.com
 tag.yieldoptimizer.com
 tags.bkrtx.com
 tags.bluekai.com
@@ -837,6 +852,7 @@ track.hubspot.com
 track.mailerlite.com
 track.securedvisit.com
 track.tenjin.io
+trackcmp.net
 tracker.samplicio.us
 trc.pushnami.com
 trc.taboola.com
@@ -850,9 +866,11 @@ u.openx.net
 uaid-linkage.imrworldwide.com
 udc.yahoo.com
 udm.scorecardresearch.com
+ue.flipboard.com
 ulogs.umeng.com
 ulogs.umengcloud.com
 up.cm.ksmobile.com
+urs.cnet.com
 us-ads.openx.net
 us-gmtdmp.mookie1.com
 us-u.openx.net
@@ -872,6 +890,7 @@ vast.adsafeprotected.com
 vast.w.inmobi.com
 vastpixel.adsafeprotected.com
 vid.springserve.com
+video.unrulymedia.com
 videotracker.washingtonpost.com
 vidstat.taboola.com
 vms.boldchat.com
@@ -924,6 +943,7 @@ www.qualtrics.com
 www.res-x.com
 www.sdad.guru
 www.snapengage.com
+www.summerhamster.com
 www.vungle.com
 www.zergnet.com
 www5.smartadserver.com
