@@ -20,7 +20,7 @@ def get_domains(filename):
     with open(filename) as f:
         for line in f.readlines():
             if not line.startswith("#"):
-                domains.add(line.split("#")[0].strip("\n").strip())
+                domains.add(line.split("#")[0].strip("\n").strip().lower())
     return domains
 
 
