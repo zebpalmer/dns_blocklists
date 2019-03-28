@@ -20,6 +20,7 @@
 #
 # This list can be found https://zebpalmer.github.io/dns_blocklists/blocklist.txt
 #
+# STATS: Total 10633, Diff 633, TS 2019-03-25 23:11:59.033071
 0.r.msn.com
 005.free-counter.co.uk
 006.free-counter.co.uk
@@ -50,6 +51,7 @@
 102.122.2o7.net
 102106151057.c.mystat-in.net
 103532.hittail.com
+10394-127.ampxchange.com
 106242.hittail.com
 108411.hittail.com
 10best.us.intellitxt.com
@@ -75,6 +77,7 @@
 12877.hittail.com
 13223.hittail.com
 14228.hittail.com
+1435575.fls.doubleclick.net
 143fuck.com
 14713804a.l2m.net
 15141.hittail.com
@@ -85,6 +88,8 @@
 16565.hittail.com
 165a7.v.fwmrm.net
 1800.stats.misstrends.com
+180hits.de
+180searchassistant.com
 1867.stats.misstrends.com
 1901.nordstrom.com
 19097.hittail.com
@@ -202,12 +207,16 @@
 4184.stats.misstrends.com
 4236808.fls.doubleclick.net
 43242.com
+4360661.fls.doubleclick.net
+4488352.fls.doubleclick.net
 4514783.fls.doubleclick.net
 4560.hittail.com
 4612.hittail.com
 4654.2465.primosearch.com
+4684100.fls.doubleclick.net
 4802.170.blueseek.com
 4affiliate.net
+4d5.net
 4pokertips.com
 4qinvite.4q.iperceptions.com
 4thegame.uk.intellitxt.com
@@ -216,6 +225,7 @@
 4w5wihkwyhsav2ha.dreamtest.at
 50websads.com
 51yes.com
+5362399.fls.doubleclick.net
 5486.winxp.primosearch.com
 5490.spedads.primosearch.com
 5726.bapi.adsafeprotected.com
@@ -241,6 +251,7 @@
 699.stats.misstrends.com
 6dtxgqam4crv6rr6.onion.cab
 6g4ds.froekuge.com
+6ldu6qa.com
 6o9.com
 700xxx.com
 70pictures.com
@@ -328,12 +339,14 @@ a.remarketstats.com
 a.rfihub.com
 a.rmgserving.com
 a.rvttrack.com
+a.sakh.com
 a.scorecardresearch.com
 a.teads.tv
 a.thanksearch.com
 a.thoughtleadr.com
 a.tribalfusion.com
 a.ucoz.net
+a.ucoz.ru
 a.visualrevenue.com
 a.websponsors.com
 a.wikia-beacon.com
@@ -369,6 +382,7 @@ ab.adpro.com.ua
 ab.advertiserurl.com
 ab44aa.r.axf8.net
 abacho.net
+abandonedclover.com
 abbyssh.freestats.com
 abc.doublegear.com
 abcstats.com
@@ -378,13 +392,16 @@ abo.prismamediadigital.com
 aboutads.quantcast.com
 aboutwebservices.com
 abp.smartadcheck.de
+abruptroad.com
 abs.proxistore.com
 abscbn.spinbox.net
 absoluteclickscom.com
 abvtqhwodwjmi.work
 abz.com
+ac.ajur.info
 ac.mmstat.com
 ac.rnm.ca
+ac.ybinst6.ec.yimg.com
 acckalaharinet.112.2o7.net
 accounts.pkr.com
 accuserveadsystem.com
@@ -395,6 +412,7 @@ aceshowbiz.us.intellitxt.com
 achmedia.com
 acjhwpdjhlhbncf.click
 aclasscelebs.us.intellitxt.com
+aclickads.com
 acookie.alimama.com
 acpmagazines.112.2o7.net
 action.mathtag.com
@@ -426,6 +444,7 @@ ad-g.doubleclick.net
 ad-gbn.com
 ad-hoc-news.de.intellitxt.com
 ad-logics.com
+ad-media.xe.gr
 ad-pay.de
 ad-rotator.com
 ad-server.gulasidorna.se
@@ -476,6 +495,7 @@ ad.afy11.net
 ad.allstar.cz
 ad.altervista.org
 ad.amgdgt.com
+ad.anuntis.com
 ad.aquamediadirect.com
 ad.ar.doubleclick.net
 ad.at.doubleclick.net
@@ -536,6 +556,7 @@ ad.flux.com
 ad.foxnetworks.com
 ad.fr.doubleclick.net
 ad.freecity.de
+ad.gate24.ch
 ad.gazeta.pl
 ad.globe7.com
 ad.glossymedia.pl
@@ -551,6 +572,7 @@ ad.himediadx.com
 ad.hirekmedia.hu
 ad.hit.gemius.pl
 ad.hk.doubleclick.net
+ad.hodomobile.com
 ad.hosting.pl
 ad.hr.doubleclick.net
 ad.httpool.com
@@ -561,6 +583,7 @@ ad.ie.doubleclick.net
 ad.iinfo.cz
 ad.il.doubleclick.net
 ad.iloveinterracial.com
+ad.imediaaudiences.com
 ad.in.doubleclick.net
 ad.infoseek.com
 ad.insightexpress.com
@@ -596,11 +619,13 @@ ad.mail.ru
 ad.media-servers.net
 ad.mediaprostor.cz
 ad.mediastorm.hu
+ad.mgd.de
 ad.mo.doubleclick.net
 ad.musicmatch.com
 ad.mx.doubleclick.net
 ad.my.doubleclick.net
 ad.n2434.doubleclick.net
+ad.nachtagenten.de
 ad.naver.com
 ad.netcommunities.com
 ad.nl.doubleclick.net
@@ -608,6 +633,7 @@ ad.no.doubleclick.net
 ad.nozonedata.com
 ad.nttnavi.co.jp
 ad.ntvmsnbc.com
+ad.nwt.cz
 ad.nz.doubleclick.net
 ad.ohmynews.com
 ad.orbitel.bg

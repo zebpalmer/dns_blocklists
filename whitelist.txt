@@ -77,3 +77,4 @@ vortex.data.microsoft.com
 sstats.adobe.com # adobe stock
 img1.wsimg.com # godaddy webmail cdn
 id.google.com
+self.events.data.microsoft.com
