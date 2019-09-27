@@ -10,7 +10,7 @@
 # Want more details? https://zebpalmer.github.io/dns_blocklists/
 # This list can be found https://zebpalmer.github.io/dns_blocklists/slim.txt
 #
-# STATS: Total 1002, Diff 4, TS 2019-03-28 20:18:29.167139
+# STATS: Total 1003, Diff 1, TS 2019-09-27 16:30:20.123498
 1181183.fls.doubleclick.net
 159126.engine.mobileapptracking.com
 1681.engine.mobileapptracking.com
@@ -855,6 +855,7 @@ sync.tidaltv.com
 syndication.exoclick.com
 syndication.twitter.com
 system.picreel.com
+t-info.mail.adobe.com
 t.appsflyer.com
 t.mookie1.com
 t.myvisualiq.net
