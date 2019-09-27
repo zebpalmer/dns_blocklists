@@ -37,6 +37,11 @@ One of the other DNS related projects I'm working on is a tool that enables anyo
  
  Visit the blockworkr repo for more info: https://github.com/zebpalmer/blockworkr 
  
+ 
+### Adding Domains
+
+`./add-domains.py temp/add.txt slim.txt --whitelist whitelist.txt`
+ 
 ### Feedback / Suggestions / Contributions
 
 Feel free to open an issue on this repo, submit a pull request or reach me on twitter @zebpalmer. 
