@@ -79,3 +79,4 @@ img1.wsimg.com # godaddy webmail cdn
 id.google.com
 self.events.data.microsoft.com
 use-application-dns.net
+forms.office.com
