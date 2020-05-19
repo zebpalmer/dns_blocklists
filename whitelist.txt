@@ -81,3 +81,4 @@ self.events.data.microsoft.com
 use-application-dns.net
 forms.office.com
 mi.edgekey.net
+www.loggly.com
