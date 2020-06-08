@@ -82,3 +82,5 @@ use-application-dns.net
 forms.office.com
 mi.edgekey.net
 www.loggly.com
+fonts.gstatic.com
+rpm.newrelic.com # required for work
