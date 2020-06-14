@@ -83,4 +83,5 @@ forms.office.com
 mi.edgekey.net
 www.loggly.com
 fonts.gstatic.com
-rpm.newrelic.com # required for work
+rpm.newrelic.com
+i.imgur.com
