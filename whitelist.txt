@@ -87,4 +87,5 @@ rpm.newrelic.com
 i.imgur.com
 vortex.hulu.com
 cws-hulu.conviva.com
-
+dpm.demdex.net
+assets.huluim.com
