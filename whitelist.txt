@@ -85,3 +85,6 @@ www.loggly.com
 fonts.gstatic.com
 rpm.newrelic.com
 i.imgur.com
+vortex.hulu.com
+cws-hulu.conviva.com
+
