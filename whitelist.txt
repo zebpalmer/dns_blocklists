@@ -91,3 +91,4 @@ dpm.demdex.net
 assets.huluim.com
 files.slack.com
 stats.uptimerobot.com
+app.skiff.org
