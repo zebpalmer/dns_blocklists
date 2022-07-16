@@ -94,3 +94,5 @@ stats.uptimerobot.com
 app.skiff.org
 self-events-data.trafficmanager.net
 g.msn.com
+na.glbtls.t.co
+na.albtls.t.co
