@@ -97,3 +97,5 @@ na.glbtls.t.co
 na.albtls.t.co
 t.me
 avantlink.com # common affiliate click tracking, blocking breaks links on tons of useful sites
+vrm.victronenergy.com
+victronenergy.com
